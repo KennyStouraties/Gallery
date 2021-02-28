@@ -1,0 +1,17 @@
+#MyCarousel1{
+    background-color: dodgerblue;
+}
+
+#MyCarousel1 img{
+    margin-top: 20px;
+    width: 350px;
+}
+
+.carousel-content p{
+  font-size: 35px;
+    font-family: fantasy;
+    color: firebrick;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
